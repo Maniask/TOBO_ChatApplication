@@ -1,0 +1,2 @@
+rootProject.name='TOBO'
+include ':app'

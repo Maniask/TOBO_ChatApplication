@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218593935118",
+    "firebase_url": "https://tobo-e6c78.firebaseio.com",
+    "project_id": "tobo-e6c78",
+    "storage_bucket": "tobo-e6c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218593935118:android:16d47396183b567713a15f",
+        "android_client_info": {
+          "package_name": "com.example.tobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218593935118-9sqn7f7v07b8ch4an2d9s1s6g3v67l8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeiZ9904obbGc0ZQweQsG7oAFDsB_YrvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218593935118-9sqn7f7v07b8ch4an2d9s1s6g3v67l8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
